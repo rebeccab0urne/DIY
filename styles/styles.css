@@ -1,0 +1,56 @@
+.header{
+    background-color: lightblue;
+    color: white;
+    height: 200px
+    line-height: 200px;}
+
+.mainbody{
+    background-color:aliceblue}
+
+.footer{
+    position: fixed;
+    background-color: aliceblue;
+    bottom:0px;
+    right:7px;
+    left:7px;
+    height:25px;
+    font:size 10px;
+    line-height:25px;}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:35%}
+
+.first{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif}
+
+.common{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    left-aligned: vertical-align: top;}
+
+nav{
+    background-color: aliceblue;
+    padding:10px;
+    overflow:hidden;}
+
+nav a{
+    padding:15px;
+    text-decoration: none;
+    font-size:16px;
+    font-weight: bold;
+    color:#333;
+    float: left;
+}
+
+nav a:hover{
+    background-color: lightblue;
+}
+
+.bordered-photo {
+    border: 5px solid aliceblue; 
+    padding: 10px; 
+}
